@@ -83,3 +83,19 @@ document.getElementById('smsForm').addEventListener('submit', async (e) => {
 
 The following consent language is displayed on the opt-in page:
 
+---
+
+## ⚠️ Important
+
+Do NOT send SMS marketing messages before Twilio A2P approval.
+Doing so may result in suspension.
+
+---
+
+## 📬 Contact
+
+Business Name: Tropical Rentals FL  
+Website: https://tropicalrentalsfl.lodgify.com  
+
+For questions regarding this project, contact the site administrator.
+
