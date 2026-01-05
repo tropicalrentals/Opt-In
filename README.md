@@ -66,3 +66,20 @@ document.getElementById('smsForm').addEventListener('submit', async (e) => {
 
 </body>
 </html>
+
+---
+
+## 📝 SMS Opt-In Flow
+
+1. Guest visits the SMS opt-in page
+2. Guest enters phone number and checks consent box
+3. Consent is stored with timestamp and IP address
+4. Phone number is eligible for SMS messaging
+5. Messages are sent via Twilio Messaging Service
+
+---
+
+## 📜 Consent Language (Required)
+
+The following consent language is displayed on the opt-in page:
+
